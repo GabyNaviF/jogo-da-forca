@@ -1,15 +1,41 @@
-Nossa proposta:
+Jogo da Forca com Interface Gráfica
+Bem-vindo ao Jogo da Forca! Este projeto foi desenvolvido como trabalho final e traz uma interface gráfica amigável e intuitiva para o clássico jogo de adivinhação. Nosso objetivo foi proporcionar uma experiência divertida e desafiadora, com a possibilidade de expandir funcionalidades no futuro.
 
-Nossa proposta foi criar um jogo da forca com interface gráfica. Conseguimos realizar tudo o que queríamos, apesar de poder acrescentar algumas funções a mais. Ficamos felizes com o nosso resultado e esperamos que você se divirta!
+🎮 Nossa Proposta
+A ideia principal foi criar uma versão moderna e visualmente atraente do jogo da forca, acessível para todos os públicos. Conseguimos atingir nossos objetivos e estamos felizes com o resultado final. Esperamos que você se divirta jogando tanto quanto nós nos divertimos desenvolvendo!
 
-Trabalho final - Jogo da forca.zip
+🕹️ Como Jogar
+Siga os passos abaixo para aproveitar o jogo:
 
-Como jogar passo a passo:
+Tela Inicial
+Escolha o tema que deseja jogar. Cada tema abrirá uma nova página com o desafio correspondente.
 
-Na tela inicial selecione o tema que deseja jogar, cada um abrirá em uma nova página.
-Na nova página você deve clicar no espaço branco de input para digitar, com seu teclado, a letra que deseja chutar. E para confirmar seu chute, clique no botão “chutar” com seu cursor do mouse.
-Se a letra estiver contida na palavra, ela aparecerá entre as lacunas ( em roxo). Caso ela não se encontre na palavra, ela aparecerá no campo de letras erradas ( linha inferior).
-Você terá 6 chances de errar as letras, tal qual uma forca comum. A contagem das suas chances estará escrita na tela.
-Ao passar do jogo, a imagem da forca atualizará conforme as letras erradas. O personagem estará cada vez mais perto da morte.
-Ao final do jogo irá aparecer se você venceu ou perdeu e a palavra se revelará.
-A qualquer momento, você pode retornar à tela inicial, caso deseje trocar de tema ou recomeçar.
+Fazendo um Chute
+
+Clique no espaço branco do campo de input.
+Use o teclado para digitar a letra que deseja chutar.
+Clique no botão “Chutar” com o mouse para confirmar sua escolha.
+
+Resultado do Chute
+
+Acerto: A letra aparecerá na posição correta da palavra (destacada em roxo).
+Erro: A letra será exibida na linha inferior, no campo de letras erradas.
+Chances e Contagem
+
+Você tem 6 chances para errar, seguindo as regras tradicionais da forca.
+A contagem de chances restantes será exibida na tela.
+A imagem da forca será atualizada a cada erro, aproximando o personagem do fim.
+Fim de Jogo
+
+Vitória: A palavra será revelada, e você verá uma mensagem de parabéns.
+Derrota: A palavra será exibida junto com uma mensagem sobre sua derrota.
+Trocar de Tema ou Recomeçar
+A qualquer momento, você pode retornar à tela inicial para escolher outro tema ou começar novamente.
+
+🛠️ Tecnologias Utilizadas
+Linguagem: Python
+
+🎉 Agradecimentos
+Agradecemos a todos que colaboraram para tornar este projeto possível e esperamos que você tenha uma experiência divertida ao jogar!
+
+Divirta-se e boa sorte!
