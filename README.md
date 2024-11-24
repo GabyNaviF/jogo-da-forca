@@ -1,10 +1,10 @@
 # Jogo da Forca com Interface Gráfica
 
-Bem-vindo ao **Jogo da Forca**! Este projeto foi desenvolvido como trabalho final e traz uma interface gráfica amigável e intuitiva para o clássico jogo de adivinhação. Nosso objetivo foi proporcionar uma experiência divertida e desafiadora, com a possibilidade de expandir funcionalidades no futuro.
+Bem-vindo ao **Jogo da Forca**! Este projeto foi desenvolvido como trabalho final da disciplina de programação, no qual aprendemos a linguagem Python. Fiz em conjunto com minhas colegas Isabela Wagemaker e Laís Camargo.
 
 ## 🎮 Nossa Proposta
 
-A ideia principal foi criar uma versão moderna e visualmente atraente do jogo da forca, acessível para todos os públicos. Conseguimos atingir nossos objetivos e estamos felizes com o resultado final. Esperamos que você se divirta jogando tanto quanto nós nos divertimos desenvolvendo!
+Nossa proposta foi criar um jogo da forca com interface gráfica. Conseguimos realizar tudo o que queríamos, apesar de poder acrescentar algumas funções a mais. Ficamos felizes com o nosso resultado e esperamos que você se divirta! 
 
 ---
 
@@ -46,10 +46,5 @@ Siga os passos abaixo para aproveitar o jogo:
 
 ---
 
-## 🎉 Agradecimentos
-
-Agradecemos a todos que colaboraram para tornar este projeto possível e esperamos que você tenha uma experiência divertida ao jogar!
-
----
 
 **Divirta-se e boa sorte!**
